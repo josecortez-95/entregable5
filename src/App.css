@@ -1,0 +1,66 @@
+body{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/677/922/425/pokemon-pokemon-red-and-blue-blastoise-pokemon-bulbasaur-pokemon-wallpaper-preview.jpg");
+}
+img{
+    width: 350px;
+}
+ul{
+    text-decoration: none;
+    list-style: none;
+}
+.card{
+    width: 300px;
+    
+    background-color: aquamarine;
+}
+
+.menus{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.inputs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 17px;
+}
+
+.padre{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+}
+.cabecera-card{
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cuerpo-card{
+    display: flex;
+    flex-direction: column;
+}
+.cuerpo2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+aside{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:10px;
+  
+}
+.Inicio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+}
